@@ -1,25 +1,25 @@
 module.exports = [{
-  "name":"Ahmed",
-  "photo":"https://media.licdn.com/mpr/mpr/shrinknp_400_400/p/6/005/064/1bd/3435aa3.jpg",
+  "name":"Felicia",
+  "photo":"http://listamaze.com/wp-content/uploads/2016/09/Phylicia-Rashad.jpg",
   "scores":[5,1,4,4,5,1,2,5,4,1]
 }, {
-  "name":"Bill",
-  "photo":"http://cdn3-www.craveonline.com/assets/mandatory/legacy/2013/04/man_file_1043888_1-bill-murray-funniest-actors-300x300.jpg",
+  "name":"Issa",
+  "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6l-yekoVRG7k-q5hi_ftNjhdOv1ygzLhLcm_fgAnlwwTiEgS2",
   "scores":[5,1,4,4,5,1,2,5,4,1]
 }, {
-  "name":"Hamm",
-  "photo":"https://typeset-beta.imgix.net/rehost%2F2016%2F9%2F13%2Fbc05f04a-fb52-4c6f-915a-800da9ae021c.jpg",
+  "name":"Sanaai",
+  "photo":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQhDlOiqF4x22ZHhHggHyLecaeAfN1pjURxMnYS3wLqBpv-gZVc",
   "scores":[5,1,4,4,5,1,2,5,4,1]
 }, {
-  "name":"Fred",
-  "photo":"http://glamazonsblog.com/wp-content/uploads/2011/11/mr-rogers-red-sweater-Glamazons-Blog-2.gif",
+  "name":"Lauryn",
+  "photo":"https://cdn2.collective-evolution.com/assets/uploads/2015/12/lauryn_hill_collective_evolution.jpg",
   "scores":[5,1,4,4,5,1,2,5,4,1]
 }, {
-    "name":"Amir",
-  "photo":"http://img5.zergnet.com/1570466_300.jpg",
+    "name":"Cardi",
+  "photo":"http://www.guinnessworldrecords.com/Images/Cardi%20B%20header_tcm25-522384.jpg",
   "scores":[5,1,4,4,5,1,2,5,4,1]
 }, {
-  "name":"Stymie",
-  "photo":"http://www.cartooncountymn.com/wp-content/uploads/2016/12/ayanlemohamed-1.jpg",
+  "name":"Tessa",
+  "photo":"http://s24193.pcdn.co/wp-content/uploads/2017/08/Madilyn-Smith-Entity-Tessa-Thompson-1320x720.png",
   "scores":[5,1,4,4,5,1,2,5,4,1]
 }]
