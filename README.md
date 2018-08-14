@@ -1,16 +1,12 @@
 # Friend Finder
-Boot Camp HW 13 - FriendFinder - node.js and express server exercise
+Assignment 13
 
-This app allows user to take a survey, answering 10 psychological questions with a 1-5 scale of agree to disagree. Upon submit, the survey answers will be compared to the other people who filled out the survey to see who is the closest match.  He will also be added to the existing friends database.
+Survey based on questions to see who is the best match for you allowign for data base addition for each indigidual that is logged after the completion of survey. 
 
-The matching is done by computing the difference between each survey response and accumulating these differences.  Which ever member on the database has the smallest difference will be presented as the closest match.  
-
-node.js Dependencies:
+Dependencies
 - express
 - body-parser
 - path
-
-Starting point - home.html
 
 Backend modules:
 - server.js - sets up and starts server
